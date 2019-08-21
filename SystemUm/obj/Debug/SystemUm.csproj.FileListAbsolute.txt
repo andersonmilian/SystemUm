@@ -1,0 +1,9 @@
+c:\users\anderson.fmilian\documents\visual studio 2015\Projects\SystemUm\SystemUm\bin\Debug\SystemUm.exe.config
+c:\users\anderson.fmilian\documents\visual studio 2015\Projects\SystemUm\SystemUm\bin\Debug\SystemUm.exe
+c:\users\anderson.fmilian\documents\visual studio 2015\Projects\SystemUm\SystemUm\bin\Debug\SystemUm.pdb
+c:\users\anderson.fmilian\documents\visual studio 2015\Projects\SystemUm\SystemUm\obj\Debug\SystemUm.csprojResolveAssemblyReference.cache
+c:\users\anderson.fmilian\documents\visual studio 2015\Projects\SystemUm\SystemUm\obj\Debug\SystemUm.Form1.resources
+c:\users\anderson.fmilian\documents\visual studio 2015\Projects\SystemUm\SystemUm\obj\Debug\SystemUm.Properties.Resources.resources
+c:\users\anderson.fmilian\documents\visual studio 2015\Projects\SystemUm\SystemUm\obj\Debug\SystemUm.csproj.GenerateResource.Cache
+c:\users\anderson.fmilian\documents\visual studio 2015\Projects\SystemUm\SystemUm\obj\Debug\SystemUm.exe
+c:\users\anderson.fmilian\documents\visual studio 2015\Projects\SystemUm\SystemUm\obj\Debug\SystemUm.pdb
